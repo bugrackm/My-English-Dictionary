@@ -3356,7 +3356,7 @@ A person's husband or wife.
 
 ## Derived
 
-Coming from or caused by something else.
+To get something from something else.
 
 **Example:** derived products.
 
@@ -3639,3 +3639,27 @@ A group of long, thin fibres (= structures like threads) that carry information 
 The courage or confidence necessary to do something difficult, unpleasant, or rude.
 
 **Example:** It takes a lot of nerve to be a bomb disposal expert. 
+
+## Spare
+
+If something is spare, it is available to use because it is extra.
+
+**Example:** Do you have a spare pen?
+
+## Resilient
+
+Able to be happy, successful, etc. again after something difficult or bad has happened.
+
+**Example:** She's a resilient girl - she won't be unhappy for long.
+
+## Overlap
+
+To cover something partly by going over its edge; to cover part of the same space.
+
+**Example:**  The fence is made of panels that overlap (each other).
+
+## Abstract
+
+An abstract argument or discussion is general and not based on particular examples.
+
+**Example:** This debate is becoming too abstract - let's have some hard facts!
