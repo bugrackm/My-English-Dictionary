@@ -3731,3 +3731,9 @@ To push a loose end of a piece of clothing or material into a particular place o
 A part that combines with other parts to form a whole story, subject, or situation.
 
 **Example:** There are so many different strands to the plot that it's hard to follow.
+
+## Bloat
+
+To swell up, or to make someone or something swollen.
+
+**Example:** If I eat it, my stomach bloats up.
