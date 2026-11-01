@@ -3663,3 +3663,71 @@ To cover something partly by going over its edge; to cover part of the same spac
 An abstract argument or discussion is general and not based on particular examples.
 
 **Example:** This debate is becoming too abstract - let's have some hard facts!
+
+## Axiomatically
+
+In a way that is obviously true and therefore does not need to be proved.
+
+**Example:** You are, axiomatically, unique.
+
+**Example:** Being part of a stepfamily doesn't axiomatically mean there are going to be problems.
+
+## Axiom
+
+A statement or principle that is generally accepted to be true, but need not be so.
+
+**Example:** It is a widely held axiom that governments should not negotiate with terrorists.
+
+## Premise
+
+An idea or theory on which a statement or action is based.
+
+**Example:** They had started with the premise that all men are created equal.
+
+## Deduce
+
+To reach an answer or a decision by thinking carefully about the known facts.
+
+**Example:** The police have deduced that he must have left his apartment yesterday evening.
+
+## Intuition
+
+An ability to understand or know something without needing to think about it or use reason to discover it, or a feeling that shows this ability.
+
+**Example:** You should trust your intuition in making your decision.
+
+**Example:** Hank’s intuitions were right.
+
+## Citation
+
+A word or piece of writing taken from a written work.
+
+**Example:** All citations are taken from the 2007 edition of the text.
+
+## Dozen
+
+Twelve.
+
+**Example:** This recipe makes three dozen cookies.
+
+## Whereas
+
+Compared with the fact that; but.
+
+**Example:** You eat a huge plate of food for lunch, whereas I have just a sandwich.
+
+## Thread
+
+In computer science, a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a Scheduler, which is typically a part of the operating system.
+
+## Tuck
+
+To push a loose end of a piece of clothing or material into a particular place or position, especially to make it tidy or comfortable.
+
+**Example:** Should I tuck my shirt into my trousers? (tuck something into something)
+
+## Strand
+
+A part that combines with other parts to form a whole story, subject, or situation.
+
+**Example:** There are so many different strands to the plot that it's hard to follow.
