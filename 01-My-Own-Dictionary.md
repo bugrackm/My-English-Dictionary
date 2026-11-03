@@ -3737,3 +3737,9 @@ A part that combines with other parts to form a whole story, subject, or situati
 To swell up, or to make someone or something swollen.
 
 **Example:** If I eat it, my stomach bloats up.
+
+## Composure
+
+The feeling of being calm, confident, and in control.
+
+**Example:** I didn't want to lose my composure in front of her.
