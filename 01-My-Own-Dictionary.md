@@ -3743,3 +3743,17 @@ To swell up, or to make someone or something swollen.
 The feeling of being calm, confident, and in control.
 
 **Example:** I didn't want to lose my composure in front of her.
+
+## Rear
+
+At the back of something.
+
+**Example:** There's a sticker on the rear door/window.
+
+## Frequent
+
+Happening often.
+
+**Example:** The most frequent cause of death is heart disease.
+
+## 
