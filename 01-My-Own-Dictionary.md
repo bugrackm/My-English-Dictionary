@@ -1968,6 +1968,12 @@ To make something else seem better or more attractive when combining with it.
 
 **Example:** Strawberries and cream complement each other perfectly.
 
+## Explicit
+
+Clear and exact.
+
+**Example:** I gave her very explicit directions how to get here.
+
 ## Explicitly
 
 In a way that is clear and exact. 
@@ -3756,4 +3762,20 @@ Happening often.
 
 **Example:** The most frequent cause of death is heart disease.
 
-## 
+## Retractable
+
+That can be pulled back or in.
+
+**Example:** Cats have retractable claws.
+
+## Elect
+
+To decide on or choose, especially to choose a person for a particular job, by voting.
+
+**Example:** We elected him as our representative.
+
+## Delegate
+
+To give a particular job, duty, right, etc. to someone else so that they do it for you.
+
+**Example:** Authority to make financial decisions has been delegated to a special committee.
