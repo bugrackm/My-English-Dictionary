@@ -3779,3 +3779,9 @@ To decide on or choose, especially to choose a person for a particular job, by v
 To give a particular job, duty, right, etc. to someone else so that they do it for you.
 
 **Example:** Authority to make financial decisions has been delegated to a special committee.
+
+## Intuition
+
+(knowledge from) An ability to understand or know something immediately based on your feelings rather than facts.
+
+**Example:** I can't explain how I knew - I just had an intuition that you'd been involved in an accident.
