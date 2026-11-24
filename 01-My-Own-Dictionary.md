@@ -3785,3 +3785,9 @@ To give a particular job, duty, right, etc. to someone else so that they do it f
 (knowledge from) An ability to understand or know something immediately based on your feelings rather than facts.
 
 **Example:** I can't explain how I knew - I just had an intuition that you'd been involved in an accident.
+
+## Removal
+
+The act of taking something or someone away from somewhere or something.
+
+**Example:** funiture removal. 
